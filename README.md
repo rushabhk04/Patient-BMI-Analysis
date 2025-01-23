@@ -1,4 +1,4 @@
-# Healthcare Data Analysis and Insights
+# "HealthScope: Unlocking Insights for Better Care"  
 
 ## Objective
 The aim of this project is to analyze healthcare data to extract actionable insights that could help improve patient care and healthcare resource management. By working with multiple datasets, I utilized various Excel techniques to clean, transform, and analyze the data to uncover meaningful patterns.
@@ -57,7 +57,3 @@ This analysis highlights the importance of maintaining a healthy weight and bloo
 - Donut Chart: Smoking and Cancer History Comparison
 - Column Chart: Hospital Charges by Tier
 - Line Chart: Hospital Charges and BMI Trends by Age
-
-## Project Resources
-- [Excel Sheet for Healthcare Data Analysis](https://github.com/vignesh4005/Excel_Healthcare_Data_Analysis/blob/main/Healthcare%20Data%20Analysis%20and%20Insights.xlsx) <!-- Replace with the actual link -->
-- [Project Guide Sheet](https://github.com/vignesh4005/Excel_Healthcare_Data_Analysis/blob/main/Healthcare%20Analysis%20Project%20Guide%20Sheet.pdf) <!-- Replace with the actual link -->
